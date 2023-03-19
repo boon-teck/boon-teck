@@ -1,4 +1,4 @@
-### Hello 🌍 I'm Boon Teck 👋
+## Hello 🌍 I'm Boon Teck 👋
 I'm a full stack developer with experience in front-end and back-end framework as well as LCNC development tools.
 
 ## 🚀 About Me
